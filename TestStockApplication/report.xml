@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="4" failures="0" disabled="0" errors="0" time="0.002" name="AllTests">
+  <testsuite name="TestStock" tests="4" failures="0" disabled="0" errors="0" time="0.001">
+    <testcase name="check_yield" status="run" time="0" classname="TestStock" />
+    <testcase name="check_pe" status="run" time="0" classname="TestStock" />
+    <testcase name="check_price_last_minutes" status="run" time="0.001" classname="TestStock" />
+    <testcase name="check_price_last_minutes_add_record" status="run" time="0" classname="TestStock" />
+  </testsuite>
+</testsuites>
